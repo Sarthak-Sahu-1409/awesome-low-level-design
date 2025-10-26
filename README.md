@@ -18,7 +18,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 ## 🧭 Design Principles
 - [DRY Principle](https://algomaster.io/learn/lld/dry)
 - [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-- [SOLID Principles with Code]([https://blog.algomaster.io/p/solid-principles-explained-with-code](https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/))
+- [SOLID Principles with Code]([https://blog.algomaster.io/p/solid-principles-explained-with-code](https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/)
 
 ## 🧩 Design Patterns
 
