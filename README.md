@@ -25,7 +25,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 | **Creational Patterns**                                                                                                        | **Structural Patterns**                                               | **Behavioral Patterns**                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [Singleton](https://www.geeksforgeeks.org/system-design/singleton-pattern-c-design-patterns)                                   | [Adapter](https://algomaster.io/learn/lld/adapter)                    | [Observer](https://www.geeksforgeeks.org/system-design/observer-pattern-c-design-patterns)                   |
-| [Factory Method](https://www.geeksforgeeks.org/system-design/factory-method-pattern-c-design-patterns)                         | [Decorator](https://algomaster.io/learn/lld/decorator)                | [Strategy](https://www.geeksforgeeks.org/system-design/strategy-method-design-pattern-c-design-patterns)     |
+| [Factory Method](https://www.geeksforgeeks.org/system-design/factory-method-pattern-c-design-patterns)                         |               | [Strategy](https://www.geeksforgeeks.org/system-design/strategy-method-design-pattern-c-design-patterns)     |
 
 ## 🗂️ UML
 - [Class Diagram](https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples)
