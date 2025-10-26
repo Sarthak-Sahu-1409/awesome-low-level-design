@@ -28,12 +28,6 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 | [Factory Method](https://algomaster.io/learn/lld/factory-method)     |      | [Observer](https://algomaster.io/learn/lld/observer)                         |
 | [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) |  | [Strategy](https://algomaster.io/learn/lld/strategy)                         |
 | [Builder](https://algomaster.io/learn/lld/builder)                   | [Decorator](https://algomaster.io/learn/lld/decorator) |                           |
-|                                                                      |       |                               |
-|                                                                               |  |       |
-|                                                                               |        |                          |
-|                                                                               |                                                                 |                       |
-|                                                                               |                                                                 |                          |
-|                                                                               |                                                                 | |
 
 ## 🗂️ UML
 - [Class Diagram](https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples)
