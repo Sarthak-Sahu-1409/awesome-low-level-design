@@ -26,7 +26,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [Singleton](https://algomaster.io/learn/lld/singleton)            | [Adapter](https://algomaster.io/learn/lld/adapter)     |                       |
 | [Factory Method](https://algomaster.io/learn/lld/factory-method)     |      | [Observer](https://algomaster.io/learn/lld/observer)                         |
-| [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) |  | [Strategy](https://www.geeksforgeeks.org/system-design/strategy-method-design-pattern-c-design-patterns/)                         |
+| [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) |  | [Strategy](https://www.geeksforgeeks.org/system-design/strategy-method-design-pattern-c-design-patterns)                         |
 | [Builder](https://algomaster.io/learn/lld/builder)                   | [Decorator](https://algomaster.io/learn/lld/decorator) |                           |
 
 ## 🗂️ UML
