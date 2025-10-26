@@ -24,16 +24,16 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 | **Creational Patterns**                                                       | **Structural Patterns**                                         | **Behavioral Patterns**                                                               |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Singleton](https://algomaster.io/learn/lld/singleton)            | [Adapter](https://algomaster.io/learn/lld/adapter)     | [Iterator](https://algomaster.io/learn/lld/iterator)                         |
-| [Factory Method](https://algomaster.io/learn/lld/factory-method)     | [Bridge](https://algomaster.io/learn/lld/bridge)       | [Observer](https://algomaster.io/learn/lld/observer)                         |
-| [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) | [Composite](https://algomaster.io/learn/lld/composite) | [Strategy](https://algomaster.io/learn/lld/strategy)                         |
-| [Builder](https://algomaster.io/learn/lld/builder)                   | [Decorator](https://algomaster.io/learn/lld/decorator) | [Command](https://algomaster.io/learn/lld/command)                           |
-| [Prototype](https://algomaster.io/learn/lld/prototype)               | [Facade](https://algomaster.io/learn/lld/facade)       | [State](https://algomaster.io/learn/lld/state)                               |
-|                                                                               | [Flyweight](https://algomaster.io/learn/lld/flyweight) | [Template Method](https://algomaster.io/learn/lld/template-method)           |
-|                                                                               | [Proxy](https://algomaster.io/learn/lld/proxy)         | [Visitor](https://algomaster.io/learn/lld/visitor)                           |
-|                                                                               |                                                                 | [Mediator](https://algomaster.io/learn/lld/mediator)                         |
-|                                                                               |                                                                 | [Memento](https://algomaster.io/learn/lld/memento)                           |
-|                                                                               |                                                                 | [Chain of Responsibility](https://algomaster.io/learn/lld/chain-of-responsibility) |
+| [Singleton](https://algomaster.io/learn/lld/singleton)            | [Adapter](https://algomaster.io/learn/lld/adapter)     |                       |
+| [Factory Method](https://algomaster.io/learn/lld/factory-method)     |      | [Observer](https://algomaster.io/learn/lld/observer)                         |
+| [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) |  | [Strategy](https://algomaster.io/learn/lld/strategy)                         |
+| [Builder](https://algomaster.io/learn/lld/builder)                   | [Decorator](https://algomaster.io/learn/lld/decorator) |                           |
+|                                                                      |       | [State](https://algomaster.io/learn/lld/state)                               |
+|                                                                               |  | [Template Method](https://algomaster.io/learn/lld/template-method)           |
+|                                                                               |        | [Visitor](https://algomaster.io/learn/lld/visitor)                           |
+|                                                                               |                                                                 |                       |
+|                                                                               |                                                                 |                          |
+|                                                                               |                                                                 | |
 
 ## 🗂️ UML
 - [Class Diagram](https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples)
